@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CheyenneW11
+- 👋 Hi, I’m Cheyenne 
 - 👀 I’m interested in computers 
 - 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning new things and needing help coding. 
 - 📫 How to reach me cheynanny@yahoo.com
 
 <!---
